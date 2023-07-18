@@ -6,7 +6,7 @@ Email Subscription
 
 ## Description 
 
-a simple website template that allows users to subscribe to email updates. The entered email addresses are stored in a Google Sheets document for easy management and retrieval. The template features a stylish design with a background image, customizable text, and a responsive form
+A simple website template that allows users to subscribe to email updates. The entered email addresses are stored in a Google Sheets document for easy management and retrieval. The template features a stylish design with a background image, customizable text, and a responsive form
 
 ## Authors
 
@@ -72,15 +72,15 @@ Deploy the website:
 
 
 
-Email Subscription: Users can enter their email addresses to subscribe for updates.
+1.Email Subscription: Users can enter their email addresses to subscribe for updates.
 
-Google Sheets Integration: Submitted emails are automatically stored in a Google Sheets document.
+2.Google Sheets Integration: Submitted emails are automatically stored in a Google Sheets document.
 
-User Feedback: Real-time feedback messages inform users about the status of their subscription.
+3.User Feedback: Real-time feedback messages inform users about the status of their subscription.
 
-Customizable Design: Easily modify the background, text, and styling to match your preferences.
+4.Customizable Design: Easily modify the background, text, and styling to match your preferences.
 
-Scalable Form: Extend the form to collect additional information and store it in Google Sheets.
+5.Scalable Form: Extend the form to collect additional information and store it in Google Sheets.
 
 
 
